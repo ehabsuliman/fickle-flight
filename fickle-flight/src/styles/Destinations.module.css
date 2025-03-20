@@ -1,0 +1,10 @@
+/* src/components/Destinations.module.css */
+.destinations {
+    text-align: center;
+    padding: 20px;
+  }
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }

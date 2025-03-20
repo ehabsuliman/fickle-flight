@@ -1,0 +1,5 @@
+.app {
+    font-family: sans-serif;
+    width: 100%; /* Ensure App container is full width */
+    box-sizing: border-box; /* Include padding and border in width */
+  }

@@ -1,0 +1,9 @@
+/* src/components/Newsletter.module.css */
+.newsletter {
+    text-align: center;
+    padding: 20px;
+  }
+  .newsletter input, .newsletter button {
+    margin: 10px;
+    padding: 10px;
+  }
